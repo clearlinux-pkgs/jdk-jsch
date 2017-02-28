@@ -1,6 +1,6 @@
 Name     : jdk-jsch
 Version  : 0.1.54
-Release  : 2
+Release  : 3
 URL      : http://download.sourceforge.net/sourceforge/jsch/jsch-0.1.54.zip
 Source0  : http://download.sourceforge.net/sourceforge/jsch/jsch-0.1.54.zip
 Source1  : MANIFEST.MF
